@@ -13,6 +13,7 @@ var stars;
 var cursors;
 var noStars = 12;
 var sound;
+var score=0;
 // define MainMenu state and methods
 var MainMenu = function(game) {};
 MainMenu.prototype = {
